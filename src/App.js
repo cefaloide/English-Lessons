@@ -1,12 +1,12 @@
 import React from "react";
 import "./App.css";
-import IrregularVerbs from "./components/IrregularVerbs";
+import IrregularVerbsComponent from "./components/irregularVerbs/IrregularVerbsComponent";
 import Container from "@material-ui/core/Container";
 
 function App() {
   return (
     <Container maxWidth="sm">
-      <IrregularVerbs />
+      <IrregularVerbsComponent />
     </Container>
   );
 }
