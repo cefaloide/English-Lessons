@@ -14,7 +14,7 @@ const wrapperStyle = {
 //   { infinitive: "beat", simplePastTense: "beat", pastParticiple: "beat" },
 // ];
 
-function IrregularVerbs() {
+function IrregularVerbsComponent() {
   return (
     <div style={wrapperStyle}>
       <h1>
@@ -46,4 +46,4 @@ function IrregularVerbs() {
   );
 }
 
-export default IrregularVerbs;
+export default IrregularVerbsComponent;
