@@ -1,8 +1,14 @@
 import React from "react";
 
+const wrapperStyle = {
+  display: "flex",
+  flexDirection: "column",
+  alignItems: "center",
+};
+
 function IrregularVerbs() {
   return (
-    <>
+    <div style={wrapperStyle}>
       <h1>
         List of <b>Irregular Verbs</b>
       </h1>
@@ -891,7 +897,7 @@ function IrregularVerbs() {
           </tr>
         </tbody>
       </table>
-    </>
+    </div>
   );
 }
 
