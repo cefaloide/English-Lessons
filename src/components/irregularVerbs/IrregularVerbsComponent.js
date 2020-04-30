@@ -10,7 +10,7 @@ const wrapperStyle = {
 };
 
 function IrregularVerbsComponent() {
-  const [fillTheGap, setFillTheGap] = useState(true);
+  const [fillTheGap, setFillTheGap] = useState(false);
   const [irregularVerbs, setIrregularVerbs] = useState(irregularVerbsList);
 
   useEffect(() => {
@@ -18,8 +18,12 @@ function IrregularVerbsComponent() {
   }, []);
 
   const hideRandomCols = () => {
-    console.log("hideRandomCols");
     const verbsWithHiddenCols = irregularVerbs.map((verb) => {
+      //set all error values to true
+      verb.infinitive.error = true;
+      verb.simplePastTense.error = true;
+      verb.pastParticiple.error = true;
+      //get visible Column
       const min = 1;
       const max = 3;
       const visibleCol = Math.floor(Math.random() * (max - min + 1) + min);
@@ -66,6 +70,29 @@ function IrregularVerbsComponent() {
     setIrregularVerbs(tempIrregularVerbs);
   };
 
+  const onChange = (evt, correctValue) => {
+    console.log("onchange");
+    const inputValue = evt.target.value;
+    console.log(inputValue + "===" + correctValue);
+    if (inputValue === correctValue) {
+      const updatedIrregularVerbs = irregularVerbs.map((verb) => {
+        if (correctValue === verb.infinitive.value) {
+          verb.infinitive.error = false;
+        }
+
+        if (correctValue === verb.simplePastTense.value) {
+          verb.simplePastTense.error = false;
+        }
+
+        if (correctValue === verb.pastParticiple.value) {
+          verb.pastParticiple.error = false;
+        }
+        return verb;
+      });
+      setIrregularVerbs(updatedIrregularVerbs);
+    }
+  };
+
   return (
     <div style={wrapperStyle}>
       <h1>List of Irregular Verbs</h1>
@@ -103,43 +130,44 @@ function IrregularVerbsComponent() {
             </th>
           </tr>
           {irregularVerbs.map((verb) => {
-            if (fillTheGap) {
+            if (fillTheGap === true) {
               return (
                 <tr key={verb.infinitive.value}>
                   <td>
                     {verb.infinitive.visible && verb.infinitive.value}
                     {!verb.infinitive.visible && (
-                      <form noValidate autoComplete="off">
-                        <TextField
-                          id="standard-basic"
-                          label=""
-                          error={verb.infinitive.error}
-                        />
-                      </form>
+                      <TextField
+                        id="standard-basic"
+                        label=""
+                        error={verb.infinitive.error}
+                        onChange={(evt) => onChange(evt, verb.infinitive.value)}
+                      />
                     )}
                   </td>
                   <td>
                     {verb.simplePastTense.visible && verb.simplePastTense.value}
                     {!verb.simplePastTense.visible && (
-                      <form noValidate autoComplete="off">
-                        <TextField
-                          id="standard-basic"
-                          label=""
-                          error={verb.simplePastTense.error}
-                        />
-                      </form>
+                      <TextField
+                        id="standard-basic"
+                        label=""
+                        error={verb.simplePastTense.error}
+                        onChange={(evt) =>
+                          onChange(evt, verb.simplePastTense.value)
+                        }
+                      />
                     )}
                   </td>
                   <td>
                     {verb.pastParticiple.visible && verb.pastParticiple.value}
                     {!verb.pastParticiple.visible && (
-                      <form noValidate autoComplete="off">
-                        <TextField
-                          id="standard-basic"
-                          label=""
-                          error={verb.pastParticiple.error}
-                        />
-                      </form>
+                      <TextField
+                        id="standard-basic"
+                        label=""
+                        error={verb.pastParticiple.error}
+                        onChange={(evt) =>
+                          onChange(evt, verb.pastParticiple.value)
+                        }
+                      />
                     )}
                   </td>
                 </tr>

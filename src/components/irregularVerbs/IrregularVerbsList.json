@@ -2,2363 +2,2363 @@
   {
     "infinitive": {
       "value": "arise",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "arose",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "arisen",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "awake",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "awoke",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "awoken",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "be",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "was/were",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "been",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "bear",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "bore",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "born(e)",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "beat",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "beat",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "beaten",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "become",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "became",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "become",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "begin",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "began",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "begun",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "bend",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "bent",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "bent",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "bet",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "bet",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "bet",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "bind",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "bound",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "bound",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "bite",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "bit",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "bitten",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "bleed",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "bled",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "bled",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "blow",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "blew",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "blown",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "break",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "broke",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "broken",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "breed",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "bred",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "bred",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "bring",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "brought",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "brought",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "broadcast",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "broadcast",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "broadcast",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "build",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "built",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "built",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "burn",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "burnt/burned",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "burnt/burned",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "burst",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "burst",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "burst",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "buy",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "bought",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "bought",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "can",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "could",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "been able",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "catch",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "caught",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "caught",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "choose",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "chose",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "chosen",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "cling",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "clung",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "clung",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "come",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "came",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "come",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "cost",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "cost",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "cost",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "creep",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "crept",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "crept",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "cut",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "cut",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "cut",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "deal",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "dealt",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "dealt",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "dig",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "dug",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "dug",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "do",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "did",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "done",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "draw",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "drew",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "drawn",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "dream",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "dreamt/dreamed",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "dreamt/dreamed",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "drink",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "drank",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "drunk",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "drive",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "drove",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "driven",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "eat",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "ate",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "eaten",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "fall",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "fell",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "fallen",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "feed",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "fed",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "fed",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "feel",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "felt",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "felt",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "fight",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "fought",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "fought",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "find",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "found",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "found",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "fly",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "flew",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "flown",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "forbid",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "forbade",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "forbidden",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "forget",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "forgot",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "forgotten",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "forgive",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "forgave",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "forgiven",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "freeze",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "froze",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "frozen",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "get",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "got",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "got",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "give",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "gave",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "given",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "go",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "went",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "gone",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "grind",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "ground",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "ground",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "grow",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "grew",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "grown",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "hang",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "hung",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "hung",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "have",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "had",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "had",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "hear",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "heard",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "heard",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "hide",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "hid",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "hidden",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "hit",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "hit",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "hit",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "hold",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "held",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "held",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "hurt",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "hurt",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "hurt",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "keep",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "kept",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "kept",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "kneel",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "knelt",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "knelt",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "know",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "knew",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "known",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "lay",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "laid",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "laid",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "lead",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "led",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "led",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "lean",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "leant/leaned",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "leant/leaned",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "learn",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "learnt/learned",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "learnt/learned",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "leave",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "left",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "left",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "lent",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "lent",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "lent",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "lie (in bed)",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "lay",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "lain",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "lie (to not tell the truth)",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "lied",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "lied",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "light",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "lit/lighted",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "lit/lighted",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "lose",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "lost",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "lost",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "make",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "made",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "made",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "may",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "might",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "…",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "mean",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "meant",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "meant",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "meet",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "met",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "met",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "mow",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "mowed",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "mown/mowed",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "must",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "had to",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "…",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "overtake",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "overtook",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "overtaken",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "pay",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "paid",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "paid",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "put",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "put",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "put",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "read",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "read",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "read",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "ride",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "rode",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "ridden",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "ring",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "rang",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "rung",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "rise",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "rose",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "risen",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "run",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "ran",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "run",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "saw",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "sawed",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "sawn/sawed",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "say",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "said",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "said",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "see",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "saw",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "seen",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "sell",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "sold",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "sold",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "send",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "sent",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "sent",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "set",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "set",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "set",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "sew",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "sewed",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "sewn/sewed",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "shake",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "shook",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "shaken",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "shall",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "should",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "…",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "shed",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "shed",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "shed",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "shine",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "shone",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "shone",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "shoot",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "shot",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "shot",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "show",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "showed",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "shown",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "shrink",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "shrank",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "shrunk",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "shut",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "shut",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "shut",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "sing",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "sang",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "sung",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "sink",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "sank",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "sunk",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "sit",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "sat",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "sat",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "sleep",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "slept",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "slept",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "slide",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "slid",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "slid",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "smell",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "smelt",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "smelt",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "sow",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "sowed",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "sown/sowed",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "speak",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "spoke",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "spoken",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "spell",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "spelt/spelled",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "spelt/spelled",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "spend",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "spent",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "spent",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "spill",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "spilt/spilled",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "spilt/spilled",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "spit",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "spat",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "spat",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "spread",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "spread",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "spread",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "stand",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "stood",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "stood",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "steal",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "stole",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "stolen",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "stick",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "stuck",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "stuck",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "sting",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "stung",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "stung",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "stink",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "stank",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "stunk",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "strike",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "struck",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "struck",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "swear",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "swore",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "sworn",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "sweep",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "swept",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "swept",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "swell",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "swelled",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "swollen/swelled",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "swim",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "swam",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "swum",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "swing",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "swung",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "swung",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "take",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "took",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "taken",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "teach",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "taught",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "taught",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "tear",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "tore",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "torn",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "tell",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "told",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "told",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "think",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "thought",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "thought",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "throw",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "threw",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "thrown",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "understand",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "understood",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "understood",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "wake",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "woke",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "woken",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "wear",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "wore",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "worn",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "weep",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "wept",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "wept",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "will",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "would",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "…",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "win",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "won",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "won",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "wind",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "wound",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "wound",
-      "error": false,
+      "error": true,
       "visible": true
     }
   },
   {
     "infinitive": {
       "value": "write",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "simplePastTense": {
       "value": "wrote",
-      "error": false,
+      "error": true,
       "visible": true
     },
     "pastParticiple": {
       "value": "written",
-      "error": false,
+      "error": true,
       "visible": true
     }
   }
