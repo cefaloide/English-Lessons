@@ -2,6 +2,6 @@
 
 This repository contains information and exercises in English.
 
-Periodically I will add more info.
+I will add more info periodically.
 
-[https://cefaloide.github.io/English-Lessons/index.html](https://cefaloide.github.io/English-Lessons/index.html)
+[https://cefaloide.github.io/English-Lessons/](https://cefaloide.github.io/English-Lessons/)
