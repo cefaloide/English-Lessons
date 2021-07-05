@@ -95,7 +95,7 @@ function IrregularVerbsComponent() {
 
   return (
     <div style={wrapperStyle}>
-      <h1>List of Irregular Verbs</h1>
+      <h2>List of Irregular Verbs</h2>
       <div>
         <Button
           size="small"
@@ -103,8 +103,7 @@ function IrregularVerbsComponent() {
           color="primary"
           onClick={() => toggleFillTheGap()}
         >
-          {fillTheGap && "stop filling the gap"}
-          {!fillTheGap && "start filling the gap"}
+          {fillTheGap ? "stop filling the gap" : "start filling the gap"}
         </Button>{" "}
         <Button
           size="small"
