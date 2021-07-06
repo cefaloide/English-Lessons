@@ -1,19 +1,27 @@
 import React from "react";
-import { fireEvent, render, screen } from "@testing-library/react";
+import { fireEvent, render } from "@testing-library/react";
 import IrregularVerbsComponent from "./IrregularVerbsComponent";
 
-test("renders IrregularVerbsComp", () => {
-  const { getByText } = render(<IrregularVerbsComponent />);
-  const title = getByText("List of Irregular Verbs");
-  expect(title).toBeInTheDocument();
-});
+describe("<IrregularVerbsComponent />", () => {
+  let component;
 
-test("fillTheGap text", () => {
-  const { getByText } = render(<IrregularVerbsComponent />);
+  beforeEach(() => {
+    component = render(<IrregularVerbsComponent />);
+  });
 
-  let fillTheGapBtn = getByText("start filling the gap");
-  expect(fillTheGapBtn).toBeInTheDocument();
+  test("renders", () => {
+    const { getByText } = component;
+    const title = getByText("List of Irregular Verbs");
+    expect(title).toBeInTheDocument();
+  });
 
-  fireEvent.click(fillTheGapBtn);
-  expect(fillTheGapBtn.textContent).toBe("stop filling the gap");
+  test("fillTheGap text", () => {
+    const { getByText } = component;
+
+    let fillTheGapBtn = getByText("start filling the gap");
+    expect(fillTheGapBtn).toBeInTheDocument();
+
+    fireEvent.click(fillTheGapBtn);
+    expect(fillTheGapBtn.textContent).toBe("stop filling the gap");
+  });
 });
